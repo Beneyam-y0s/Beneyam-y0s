@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Bini
+- 👋 Hi, I’m Bini😎
 - 👀 I’m interested in Python and AI staff
-- 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on frontend
+- 🌱 I’m currently learning Backend dev
+- 💞️ I’m looking to collaborate on frontend dev
 - 📫 reach me 
 - 😄 Pronouns: ...
 - ⚡  I make drum noises like 'Boom Boom' 🥁, piano noises like 'Plink Plonk' 🎹, and guitar noises like 'Twang Twang'🎸....I'm an orchestra, basically 🐒.
