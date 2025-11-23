@@ -1,7 +1,16 @@
 # 💫 About Me:
 # Hi 👋, I'm Beneyam! (✦ ᴰᵃᵍᶦ)<br>Programmer, Backend Dev, MERN Stack Developer<br><br>
-🌱 I’m currently learning Next js<br>👯 I’m looking to collaborate on MERN Stack<br>👨‍💻 All of my projects are available at https://beneyamy0s.vercel.app/<br>💬 Ask me about MERN stack<br>📫 How to reach me yohannesbneyam9@gmail.com<br>⚡ Another Skills [major: Drum and piano], [Minor: Guitar]
+<table> <tr> <td>
+🌱 I’m currently learning Next js<br>
+👯 I’m looking to collaborate on MERN Stack<br>
+👨‍💻 All of my projects are available at https://beneyamy0s.vercel.app/
+<br>
+💬 Ask me about MERN stack<br>
+📫 How to reach me: yohannesbneyam9@gmail.com
+<br>
+⚡ Another Skills: Drum & Piano (major), Guitar (minor)<br>
 
+</td> <td width="260"> <img src="https://mberlove.com/blog/wp-content/uploads/2016/07/pshkvsky_gif2code_10_js.gif" width="260" /> </td> </tr> </table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/beneyam-yohannes-43778b346) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/beneyamyohannes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yohannesbeneyam9@gmail.com) 
